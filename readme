@@ -1,0 +1,19 @@
+# Food Expiration System
+
+## Overview
+A web application to manage and track food items with expiration dates.
+
+## Features
+- Add food items with expiration dates
+- View items that are expiring soon
+- Manage food items and their details
+
+## Technologies
+- Frontend: React
+- Backend: Express.js
+- Database: MongoDB
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Thanya2003/foodexpo.git
